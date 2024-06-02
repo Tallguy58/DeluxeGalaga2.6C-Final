@@ -23,7 +23,7 @@ echo -e 'Exec=fs-uae'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
 echo -e 'X-GNOME-Autostart-enabled=true'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
 echo -e 'NoDisplay=false'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
 echo -e 'Hidden=false'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
-echo -e 'Name[en_AU]=Deluxe Galaga 2.6B'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
+echo -e 'Name[en_AU]=Deluxe Galaga 2.6C'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
 echo -e 'Comment[en_AU]=Commodore Amiga Emulator'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
 echo -e 'X-GNOME-Autostart-Delay=0'>>/home/$currentuser/Desktop/Games/DeluxeGalaga.desktop
 
